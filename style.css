@@ -70,7 +70,7 @@ button:hover{
 @keyframes scroll{
 
     from{
-        transform:translateX(50%);
+        transform:translateX(30%);
     }
 
     to{
