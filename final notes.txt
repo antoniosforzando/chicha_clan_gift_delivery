@@ -1,0 +1,16 @@
+"Billie Jean is not my lover..."
+Don't even know how I ended up with that. But then again, this project started out as a cute
+animation of tying a rakhi around ones wrist (would've been much easier too), and ended up
+becoming the OrthoGOAT flying around with free Rat Dance accompaniment. Hope I nailed the
+surreal (aka WTF vibes).
+Learnt a lot about front-end development. Honestly, it feels better than Tkinter now-
+HTML for web structure
+JavaScript for animation properties and timings
+and CSS for formatting
+
+So much more structured. Idek why I was suffering creating a UI on Tkinter before.
+Now, whenever I feel like doing smth else, or bored, I'll just create cursed webpages ig. 
+That way, I'll learnt web development too~ 
+
+Twas Fun.
+Now I'll go before Amma busts my ass for not studying :((
